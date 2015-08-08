@@ -1,6 +1,7 @@
 # rescanhw
 Console program which scans for hardware chages. 
-If success returns 0, otherwise returns one of CR_-prefixed error codes defined in Cfgmgr32.h
+If success returns 0, otherwise returns one of CR_-prefixed error codes defined in Cfgmgr32.h.
+
 https://github.com/sallecta/rescanhw
 
 # Build instructions
